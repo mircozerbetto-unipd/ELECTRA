@@ -1,6 +1,6 @@
-**********************************************************
-* ELECTRA - ELECtron TRAnsfer broadened EPR simulator    *
-**********************************************************
+==========================================================
+= ELECTRA - ELECtron TRAnsfer broadened EPR simulator    =
+==========================================================
 *                                                        *
 * by Mirco Zerbetto, Alessandro Agostini, Lorenzo Franco *
 *                                                        *
