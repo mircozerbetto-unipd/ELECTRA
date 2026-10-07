@@ -18,7 +18,8 @@ due to the interaction of hydrogen atoms is also implemented.
 The user can load an experimental cw-ESR spectrum as 2-columns ASCII file and fit all the model parameters.
 The live script is self explanatory; for the theory use as reference the paper. 
 
-** How to cite**
+**How to cite**
+
 If you publish results obtained with ELECTRA, please cite:
 
 Agostini, A.: Zerbetto, M.; Sartori, D.; Zatta, S.; Polimeno, A.; Capodilupo, A. L.; Franco, L.
